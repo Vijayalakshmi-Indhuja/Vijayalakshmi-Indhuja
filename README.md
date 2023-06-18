@@ -6,7 +6,7 @@
 
 📫 You can write to me at indhujavinoth3@gmail.com
 
-🛠  My last project was creating Youtube Data Harvesting and Warehousing Web App at GUVI.
+🛠  My last project was creating Amazon prime videos Analysis using Tableau.
 
 🌱 I am fascinated by the intersection of language and technology, and NLP is at the forefront of that intersection.
 
