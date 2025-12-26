@@ -1,11 +1,15 @@
-## Hi 👋 I'm Vijayalakshmi K  
+# Hi, I'm Vijayalakshmi K 👋  
+### Data Analyst | Machine Learning Enthusiast | Python Developer  
 
-🚀 Data Analyst | Analytics Engineer | Python Developer  
-📍 Chennai, India  
-
-I specialize in building **end-to-end data analytics solutions** — from data extraction and ETL pipelines to interactive dashboards that drive business insights and decision-making.
+![Profile Views](https://komarev.com/ghpvc/?username=Vijayalakshmi-Indhuja&color=blue)
+![GitHub Followers](https://img.shields.io/github/followers/Vijayalakshmi-Indhuja?label=Followers)
+![GitHub Stars](https://img.shields.io/github/stars/Vijayalakshmi-Indhuja?label=Stars)
 
 ---
+
+## 🚀 About Me
+Data Analyst with strong hands-on experience in **Python, Machine Learning, SQL, and Data Visualization**.  
+Passionate about building **end-to-end analytics and ML projects** that solve real-world business problems.
 
 ## 🧠 What I Do
 - Build and optimize **ETL pipelines** using Python  
@@ -38,8 +42,7 @@ I specialize in building **end-to-end data analytics solutions** — from data e
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
----
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ### ⚙️ Frameworks & Tools
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -53,7 +56,7 @@ I specialize in building **end-to-end data analytics solutions** — from data e
 🔹 **IBM HR Employee Attrition Analysis**  
 🔹 **YouTube Data Harvesting & Warehousing App**  
 🔹 **Amazon Prime Video Analysis (Tableau)**  
-🔹 **Complaint Management System (Python)**  
+🔹 **Supply Chain Demand Forecasting – Streamlit App**
 
 ---
 
