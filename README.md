@@ -1,75 +1,109 @@
-# Hi, I'm Vijayalakshmi K 👋  
-### Data Analyst | Machine Learning Enthusiast | Python Developer  
+# Hi 👋 I'm Vijayalakshmi K
 
-![Profile Views](https://komarev.com/ghpvc/?username=Vijayalakshmi-Indhuja&color=blue)
-![GitHub Followers](https://img.shields.io/github/followers/Vijayalakshmi-Indhuja?label=Followers)
-![GitHub Stars](https://img.shields.io/github/stars/Vijayalakshmi-Indhuja?label=Stars)
+🚀 AI Engineer | Generative AI | Machine Learning  
+📍 Chennai, India  
 
 ---
 
-## 🚀 About Me
-Data Analyst with strong hands-on experience in **Python, Machine Learning, SQL, and Data Visualization**.  
-Passionate about building **end-to-end analytics and ML projects** that solve real-world business problems.
+## 👩‍💻 About Me
 
-## 🧠 What I Do
-- Build and optimize **ETL pipelines** using Python  
-- Perform **data analysis & exploratory data analysis (EDA)**  
-- Design **interactive dashboards** using Streamlit, Tableau & Power BI  
-- Work with **SQL & NoSQL databases** for structured analytics  
-- Translate data into **actionable business insights**
+AI Engineer with 5.5+ years of overall professional experience, including:
 
----
+- 4+ years in software development  
+- 2+ years focused on AI, Machine Learning & Generative AI  
+- Experience building end-to-end ML pipelines and LLM-powered systems  
+- Strong in Prompt Engineering, Structured Output Design & RAG workflows  
+- Cloud-compatible AI architecture (AWS fundamentals)
 
-## 🛠️ Skills & Tools
-
-### 👨‍💻 Programming & Data
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+I enjoy solving real-world business problems using AI.
 
 ---
+
+## 🛠️ Technical Skills
+
+### 💻 Programming
+Python | SQL  
+
+### 🤖 AI / ML
+Machine Learning  
+Classification & Regression  
+Feature Engineering  
+Model Evaluation  
+Scikit-learn  
+
+### 🧠 Generative AI
+Large Language Models (LLM)  
+Prompt Engineering  
+RAG (Context-Grounded Workflows)  
+OpenAI API Integration  
+Structured JSON Output Parsing  
+Hallucination Mitigation Techniques  
+
+### ☁️ Cloud & Deployment
+AWS Fundamentals (S3, EC2, Lambda, IAM)  
+Streamlit Cloud Deployment  
+REST API Integration  
 
 ### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+MySQL | MongoDB  
 
 ---
 
-### 📊 Data Visualization & BI
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=powerbi&logoColor=black)
+# 🚀 Featured Projects
 
-### ⚙️ Frameworks & Tools
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+## 🔹 SME Contract Risk Analyzer (GenAI)
+**Tech:** Python, OpenAI API, Streamlit  
 
----
+- Built LLM-based system to analyze legal contracts  
+- Implemented document chunking + structured prompts  
+- Parsed JSON outputs & applied rule-based risk scoring  
+- Designed cloud-compatible backend architecture  
 
-## 📌 Featured Projects
-🔹 **PhonePe Pulse – Data Pipeline & Analytics**  
-🔹 **IBM HR Employee Attrition Analysis**  
-🔹 **YouTube Data Harvesting & Warehousing App**  
-🔹 **Amazon Prime Video Analysis (Tableau)**  
-🔹 **Supply Chain Demand Forecasting – Streamlit App**
+👉 [View Project]https://github.com/Vijayalakshmi-Indhuja/SME-Contract-Risk-Analyzer
 
 ---
 
-## 🎯 Career Focus
-Actively seeking roles in:
-- **Data Analyst**
-- **Business Intelligence Analyst**
-- **Analytics Engineer**
-- **Junior Data Science / Analytics Roles**
+## 🔹 Fraud Detection Model
+**Tech:** Python, Scikit-learn  
+
+- Built classification model using Logistic Regression & Random Forest  
+- Handled imbalanced dataset  
+- Optimized Precision, Recall & F1-score  
+
+👉 [View Project]https://github.com/Vijayalakshmi-Indhuja/fraud_ai
 
 ---
 
-## 📫 Connect With Me
-- 🔗 LinkedIn: https://www.linkedin.com/in/vijayalakshmikarunanithi  
-- 💻 GitHub: https://github.com/Vijayalakshmi-Indhuja  
-- 📧 Email: vjk.portfolio@gmail.com
+## 🔹 SME Financial Risk Scoring Platform
+**Tech:** Python, ML, Streamlit  
+
+- Developed risk prediction model  
+- Built interactive dashboard  
+- Designed scalable ML pipeline  
+
+👉 [View Project]https://github.com/Vijayalakshmi-Indhuja/SME-Financial-health-platform
+
+---
+
+# 💼 Professional Experience
+
+### AI & Data Solutions Consultant (Freelance) | 2024 – Present
+- Developed LLM-powered applications  
+- Designed structured prompts with validation logic  
+- Built fraud & business risk prediction models  
+
+### Intern – HCL GUVI | 2023
+- Built ML pipelines  
+- Developed fraud detection model  
+- Performed feature engineering & evaluation  
+
+---
+
+# 📫 Connect With Me
+
+🔗 LinkedIn: https://www.linkedin.com/in/vijayalakshmikarunanithianithi/  
+📧 Email: vjk.portfolio@gmail.com  
+
+---
+
+⭐ Open to AI Engineer / ML Engineer / GenAI roles
