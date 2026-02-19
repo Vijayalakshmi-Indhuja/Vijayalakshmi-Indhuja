@@ -59,7 +59,7 @@ MySQL | MongoDB
 - Parsed JSON outputs & applied rule-based risk scoring  
 - Designed cloud-compatible backend architecture  
 
-👉 [View Project]https://github.com/Vijayalakshmi-Indhuja/SME-Contract-Risk-Analyzer
+👉 [View Project](https://github.com/Vijayalakshmi-Indhuja/SME-Contract-Risk-Analyzer)
 
 ---
 
@@ -70,7 +70,7 @@ MySQL | MongoDB
 - Handled imbalanced dataset  
 - Optimized Precision, Recall & F1-score  
 
-👉 [View Project]https://github.com/Vijayalakshmi-Indhuja/fraud_ai
+👉 [View Project](https://github.com/Vijayalakshmi-Indhuja/fraud_ai)
 
 ---
 
@@ -81,7 +81,7 @@ MySQL | MongoDB
 - Built interactive dashboard  
 - Designed scalable ML pipeline  
 
-👉 [View Project]https://github.com/Vijayalakshmi-Indhuja/SME-Financial-health-platform
+👉 [View Project](https://github.com/Vijayalakshmi-Indhuja/SME-Financial-health-platform)
 
 ---
 
